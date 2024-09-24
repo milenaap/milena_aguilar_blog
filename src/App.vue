@@ -48,12 +48,14 @@ h1 {
   text-align: center;
   margin-block-start: 0.5rem;
   margin-block-end: 0.5rem;
+  font-weight: 400;
 }
 
 h2 {
   font: bold;
   text-align: center;
   margin-bottom: 0.5rem;
+  font-weight: 400;
 }
 
 p {
@@ -73,7 +75,7 @@ header .banner {
 }
 
 header img {
-  width: 15rem;
+  width: 20rem;
 }
 
 button {
